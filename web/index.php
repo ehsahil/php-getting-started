@@ -4,8 +4,8 @@
 <head>
   <title>Deliveroo | Page Not Found</title>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-  <link href="/fonts.css" media="all" rel="stylesheet" type="text/css" />
-  <link href="/application.css" media="all" rel="stylesheet" type="text/css" />
+  <link href="https://campaign.deliveroo.com/fonts.css" media="all" rel="stylesheet" type="text/css" />
+  <link href="https://campaign.deliveroo.com/application.css" media="all" rel="stylesheet" type="text/css" />
   <meta name="viewport" content="width=device-width, user-scalable=no,initial-scale=1">
 </head>
 <body class="error-page">
